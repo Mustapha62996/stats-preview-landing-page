@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
-- Live Site URL: [Live site URL](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/statspreviewcardcomponent-NPp_2U5hEW)
+- Live Site URL: [Live site URL](https://mustapha62996.github.io/stats-preview-landing-page/)
 
 
 ### Built with
